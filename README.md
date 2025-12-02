@@ -1,6 +1,6 @@
 # Hello! I'm Ronald Vélez 👋  
 
-Results-driven Full Stack Developer with hands-on experience building complete web applications, from UI design to business logic, data management, and deployment.  
+Results driven Full Stack Developer with hands on experience building complete web applications, from UI design to business logic, data management, and deployment.  
 A strong collaborator with the ability to lead when needed, prioritizing clarity, user experience, and functional delivery.  
 Always focused on continuous learning and improvement.
 
