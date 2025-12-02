@@ -51,12 +51,6 @@ Enfocado siempre en el aprendizaje continuo y la mejora constante.
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Ronnie GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnievelz&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnievelz&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
-
----
 
 ## 📂 Proyectos Personales
 
