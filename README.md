@@ -1,14 +1,14 @@
-# ¡Hola! Soy Ronald Vélez 👋  
+# Hello! I'm Ronald Vélez 👋  
 
-Desarrollador Full Stack orientado a resultados, con experiencia práctica construyendo aplicaciones web completas, desde el diseño de interfaces hasta la lógica de negocio, gestión de datos y despliegue.  
-Soy un colaborador fuerte, con capacidad para liderar cuando es necesario, priorizando la claridad, la experiencia de usuario y la entrega funcional.  
-Enfocado siempre en el aprendizaje continuo y la mejora constante.
+Results-driven Full Stack Developer with hands-on experience building complete web applications, from UI design to business logic, data management, and deployment.  
+A strong collaborator with the ability to lead when needed, prioritizing clarity, user experience, and functional delivery.  
+Always focused on continuous learning and improvement.
 
 ---
 
-## 🚀 Tecnologías que utilizo
+## 🚀 Technologies I Use
 
-### 🧩 Frameworks / Librerías
+### 🧩 Frameworks / Libraries
 &ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)  
 &ensp;![Angular](https://img.shields.io/badge/-Angular-C3002F?style=flat-square&logo=Angular)  
 &ensp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)  
@@ -22,7 +22,7 @@ Enfocado siempre en el aprendizaje continuo y la mejora constante.
 
 ---
 
-## 💻 Lenguajes
+## 💻 Languages
 &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)  
 &ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)  
 &ensp;![C#](https://img.shields.io/badge/-C_Sharp-68217A?style=flat-square&logo=csharp)  
@@ -31,7 +31,7 @@ Enfocado siempre en el aprendizaje continuo y la mejora constante.
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+## 🛠️ Tools & Technologies
 &ensp;![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js)  
 &ensp;![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)  
 &ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)  
@@ -51,18 +51,17 @@ Enfocado siempre en el aprendizaje continuo y la mejora constante.
 
 ---
 
+## 📂 Personal Projects
 
-## 📂 Proyectos Personales
-
-🔗 **Proyecto destacado:**  
+🔗 **Featured Project:**  
 👉 https://siya-frontend-woad.vercel.app/
 
 ---
 
-## 📫 ¡Contáctame!
+## 📫 Contact Me
 
 &ensp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ronnie-velz/)
 
 ---
 
-**Última edición:** 2025  
+**Last edited:** 2025
