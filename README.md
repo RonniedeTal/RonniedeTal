@@ -1,16 +1,74 @@
-## Hi there 👋
+# ¡Hola! Soy Ronald Vélez 👋  
 
-<!--
-**RonniedeTal/RonniedeTal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack orientado a resultados, con experiencia práctica construyendo aplicaciones web completas, desde el diseño de interfaces hasta la lógica de negocio, gestión de datos y despliegue.  
+Soy un colaborador fuerte, con capacidad para liderar cuando es necesario, priorizando la claridad, la experiencia de usuario y la entrega funcional.  
+Enfocado siempre en el aprendizaje continuo y la mejora constante.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que utilizo
+
+### 🧩 Frameworks / Librerías
+&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)  
+&ensp;![Angular](https://img.shields.io/badge/-Angular-C3002F?style=flat-square&logo=Angular)  
+&ensp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)  
+&ensp;![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)  
+&ensp;![Express.js](https://img.shields.io/badge/-Express.js-303030?style=flat-square&logo=Express)  
+&ensp;![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87?style=flat-square&logo=ApolloGraphQL)  
+&ensp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)  
+&ensp;![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0F172A?style=flat-square&logo=TailwindCSS)  
+&ensp;![Angular Material](https://img.shields.io/badge/-Angular_Material-757575?style=flat-square&logo=Angular)  
+&ensp;![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui)
+
+---
+
+## 💻 Lenguajes
+&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)  
+&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)  
+&ensp;![C#](https://img.shields.io/badge/-C_Sharp-68217A?style=flat-square&logo=csharp)  
+&ensp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)  
+&ensp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff)  
+
+---
+
+## 🛠️ Herramientas y Tecnologías
+&ensp;![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js)  
+&ensp;![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)  
+&ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)  
+&ensp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)  
+&ensp;![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=MongoDB)  
+&ensp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-004B87?style=flat-square&logo=PostgreSQL)  
+&ensp;![MySQL](https://img.shields.io/badge/-MySQL-005E87?style=flat-square&logo=MySQL&logoColor=fff)  
+&ensp;![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=fff)  
+&ensp;![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse)  
+&ensp;![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=VisualStudioCode)  
+&ensp;![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio)  
+&ensp;![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman)  
+&ensp;![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL)  
+&ensp;![Figma](https://img.shields.io/badge/-Figma-3D3D3D?style=flat-square&logo=Figma)  
+&ensp;![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest)  
+&ensp;![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=Jasmine)
+
+---
+
+## 📊 Estadísticas de GitHub
+![Ronnie GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnievelz&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnievelz&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+
+---
+
+## 📂 Proyectos Personales
+
+🔗 **Proyecto destacado:**  
+👉 https://siya-frontend-woad.vercel.app/
+
+---
+
+## 📫 ¡Contáctame!
+
+&ensp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ronnie-velz/)
+
+---
+
+**Última edición:** 2025  
