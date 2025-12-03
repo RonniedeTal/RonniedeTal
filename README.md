@@ -1,8 +1,14 @@
 # Hello! I'm Ronald Vélez 👋  
 
-Results driven Full Stack Developer with hands on experience building complete web applications, from UI design to business logic, data management, and deployment.  
+Results driven Full Stack Developer with hands-on experience building complete web applications, 
+from UI design to business logic, data management, and deployment.  
 A strong collaborator with the ability to lead when needed, prioritizing clarity, user experience, and functional delivery.  
 Always focused on continuous learning and improvement.
+
+---
+
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=RonniedeTal&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -59,11 +65,16 @@ Always focused on continuous learning and improvement.
 ---
 
 ## 📫 Contact Me
-
 &ensp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ronnie-velz/)
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronniedetal&label=Profile%20views&color=0e75b6&style=flat" alt="ronniedetal" /> </p>
+### 🏆 Trophies 
+![Trophies](https://github-profile-trophy.vercel.app/?username=RonniedeTal&theme=dracula&margin-w=10&hide_border=true)
+
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=RonniedeTal&label=Profile%20views&color=0e75b6&style=flat" alt="ronniedeTal" /> 
+</p>
 
 **Last edited:** 2025
