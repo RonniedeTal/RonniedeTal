@@ -64,4 +64,6 @@ Always focused on continuous learning and improvement.
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronniedetal&label=Profile%20views&color=0e75b6&style=flat" alt="ronniedetal" /> </p>
+
 **Last edited:** 2025
